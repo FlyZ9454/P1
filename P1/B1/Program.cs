@@ -14,7 +14,10 @@ internal class Program
         //E2.Run();
         //E3.Run();
         //E4.Run();
-        E5.Run();
+        //E5.Run();
+        //E6.Run();
+        //E7.Run();
+        E8.Run();
         Console.ReadKey();
     }
 }
