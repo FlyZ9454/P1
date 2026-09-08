@@ -1,5 +1,4 @@
 ﻿using P1.B2.Extra;
-using P1.B2.Slide;
 using P1.B3.Slide;
 using System.Text;
 

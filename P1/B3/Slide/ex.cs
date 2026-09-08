@@ -4,9 +4,9 @@
     {
         public static void Run()
         {
-            Console.WriteLine("Nhap so a: ");
+            Console.Write("Nhap so a: ");
             int a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nhap so b: ");
+            Console.Write("Nhap so b: ");
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine(a + b);
             Console.WriteLine(a - b);
@@ -24,6 +24,10 @@
             decimal c = decimal.Parse(Console.ReadLine());
             Console.WriteLine("Nhap do dai: ");
             decimal d = decimal.Parse(Console.ReadLine());
+            decimal s = d / c;
+            Console.WriteLine($"Van toc {s:f2}");
+            Console.WriteLine("Nhap 1 ki tu: ");
+
 
         }
     }
