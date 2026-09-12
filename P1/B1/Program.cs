@@ -1,5 +1,6 @@
 ﻿using P1.B2.Extra;
 using P1.B3.Slide;
+using P1.B4;
 using System.Text;
 
 internal class Program
@@ -25,7 +26,8 @@ internal class Program
         //E13.Run();
         //E14.Run();
         //E15.Run();
-        ex.Run();
+        //ex.Run();
+        ExB4.Run();
         Console.ReadKey();
     }
 }
