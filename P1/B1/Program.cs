@@ -1,7 +1,9 @@
 ﻿using P1.B2.Extra;
 using P1.B3.Slide;
 using P1.B4;
+using P1.B3.Extra;
 using System.Text;
+using P1.B4.Extra;
 
 internal class Program
 {
@@ -27,7 +29,21 @@ internal class Program
         //E14.Run();
         //E15.Run();
         //ex.Run();
-        ExB4.Run();
+        //ExB4.Run();
+        //E1_2.Run();
+        //E2_2.Run();
+        //E3_2.Run();
+        //E4_2.Run();
+        //E5_2.Run();
+        //E6_2.Run();
+        //E7_2.Run();
+        //E8_2.Run();
+        //E9_2.Run();
+        //E10_2.Run();
+        //E1_4.Run();
+        //E2_4.Run();
+        E3_4.Run();
+        E4_4.Run();
         Console.ReadKey();
     }
 }
